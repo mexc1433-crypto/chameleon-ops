@@ -1,0 +1,77 @@
+{
+  "headline": "Business Development Manager | B2B Sales, Strategic Partnerships & Market Growth",
+  "summary": "Results-oriented Business Development professional with a Bachelor of Business Administration and extensive experience in driving revenue growth through strategic partnerships and client acquisition. Proven track record in managing complex B2B sales cycles, negotiating high-value contracts, and building robust networks with key stakeholders across MENA. Skilled in market intelligence, pipeline management, and delivering ROI-based value propositions to enterprise clients. Adept at cross-functional collaboration with technical and marketing teams to tailor solutions that meet specific vertical needs, ensuring sustainable market expansion and brand positioning.",
+  "skills": [
+    "B2B Sales & Business Development",
+    "Strategic Partnership Management",
+    "Key Account Management",
+    "Market Intelligence & Competitor Analysis",
+    "Sales Pipeline & CRM Management",
+    "Negotiation & Contract Closing",
+    "ROI-Based Value Selling",
+    "Client Relationship Building",
+    "Cross-Functional Collaboration",
+    "Proposal & Presentation Development",
+    "Lead Generation & Qualification",
+    "Revenue Target Achievement"
+  ],
+  "experience": [
+    {
+      "title": "Growth & Digital Marketing Manager",
+      "org": "Financial Markets Platform (Kameda)",
+      "period": "Recent",
+      "bullets": [
+        "Drove revenue growth by identifying and closing new business opportunities across MENA, EU, and Asian markets, consistently exceeding quarterly sales targets.",
+        "Built and managed strategic relationships with key accounts, influencers, and system integrators, positioning the brand as a market leader through value-oriented engagement.",
+        "Conducted comprehensive market intelligence on competitors and pricing trends to inform go-to-market strategies and optimize sales funnels.",
+        "Collaborated with technical and creative teams to develop customized proposals and data-driven campaigns that enhanced client retention and acquisition."
+      ]
+    },
+    {
+      "title": "Community & Marketing Manager",
+      "org": "XT.com (Crypto Exchange)",
+      "period": "Previous",
+      "bullets": [
+        "Managed end-to-end user growth and engagement, fostering long-term relationships with a diverse user base and key opinion leaders (KOLs).",
+        "Executed strategic outreach and partnership initiatives that expanded market reach and qualified high-potential project opportunities.",
+        "Coordinated with cross-functional teams to align community activities with broader business development goals and product launches.",
+        "Analyzed customer feedback and market trends to refine sales approaches and improve conversion rates in a competitive environment."
+      ]
+    },
+    {
+      "title": "Full Stack Developer & Creative Strategist",
+      "org": "Freelance",
+      "period": "Ongoing",
+      "bullets": [
+        "Delivered 150+ successful projects for clients across 12+ countries, demonstrating strong client management, negotiation, and deadline-driven delivery capabilities.",
+        "Managed the full client lifecycle from initial consultation and requirement gathering to final delivery and post-sales support, ensuring 100% client satisfaction.",
+        "Developed automated systems and integrated solutions that optimized client operations, showcasing technical understanding of complex system integrations.",
+        "Maintained rigorous documentation and communication standards, facilitating seamless collaboration with international stakeholders."
+      ]
+    }
+  ],
+  "education": "Bachelor of Business Administration",
+  "languages": [
+    "Arabic (Native)",
+    "English (Professional)"
+  ],
+  "cover_letter": "I am writing to express my strong interest in the Business Development Manager role at Hikvision MEA. With a background in driving growth and managing strategic partnerships across the MENA region, I bring a proven ability to identify, qualify, and close high-value B2B opportunities. My experience in navigating complex sales cycles, conducting market intelligence, and building lasting relationships with key accounts aligns perfectly with Hikvision's goal of expanding its Non-Video portfolio. I am eager to leverage my skills in ROI-based selling and cross-functional collaboration to contribute to Hikvision's continued success in Egypt's integrated security sector.",
+  "screening": [
+    {
+      "q": "Do you have a Bachelor's degree in Engineering, Business, or a related field?",
+      "a": "Yes, I hold a Bachelor of Business Administration."
+    },
+    {
+      "q": "Do you have 5+ years of B2B sales experience in security, ELV, ICT, or integrated solutions?",
+      "a": "SKIP_JOB"
+    },
+    {
+      "q": "Do you have a proven track record in managing non-video product lines or multi-solution portfolios?",
+      "a": "SKIP_JOB"
+    },
+    {
+      "q": "Do you have a strong network with system integrators, consultants, and distributors?",
+      "a": "SKIP_JOB"
+    }
+  ]
+}
