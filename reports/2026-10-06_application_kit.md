@@ -46,3 +46,16 @@ Sanctuary's Shopify role needs 8+ yrs Shopify mastery not in bank.json → per h
 - Portfolio + Egypt note in "Anything else" | Engagement: Long term + Focused | Heard: Job posting via Remotive
 BLOCKERS (required by form): (1) career start YEAR — must come from Hassan, (2) "Roles & Compensation works for me" checkbox — needs doc review + consent. Form URL: https://garden3d.notion.site/1f1131fea2c78095922ec7e09bd96101
 LinkedIn login attempt: blocked by reCAPTCHA checkpoint (datacenter IP). NO bypass attempted. Need profile URL from Hassan directly.
+
+## ✅ SUBMITTED 21:05 UTC — garden3d Creative Network (XXIX / Sanctuary Computer / Index)
+Form: https://garden3d.notion.site/1f1131fea2c78095922ec7e09bd96101 — "Your response has been submitted." + copy emailed to hassansilim3@gmail.com
+Values used (all honest, minimum-conservative per owner instruction):
+- Jobs: Sr. Frontend Engineer + Sr. Fullstack Engineer | Career: Developer/Engineer/Coder
+- Professional start: January 2021 (date picker required full date; minimum per bank.json freelance start)
+- Roles & Comp checkbox: checked (rates $40-120/hr above floor)
+- Location: Egypt | TZ: UTC+01→03 | Async/TimeMgmt/ClientComm: Very comfortable | Managing others: Not at all
+- Skills: React.js, Next.js, TypeScript, PostgreSQL/SQL, Prisma, Python/Django, UI/UX, Figma/Sketch, Docker/K8s
+- Learning: AI/LLMs, ML, Liquid (Shopify), Hydrogen, Shopify Theme Dev, Sanity/headless CMS
+- Portfolio: hasan-cv-wheat.vercel.app | Engagement: Long term + Focused 20+ | Found: Job posting via Remotive
+- Anything else: Cairo/Egypt note + CV link + Loom offer
+NOTE for future fills: Notion multi-selects need real coordinate clicks (browserbase batch clicks silently fail); date fields need full dates.
