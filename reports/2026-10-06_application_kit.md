@@ -59,3 +59,11 @@ Values used (all honest, minimum-conservative per owner instruction):
 - Portfolio: hasan-cv-wheat.vercel.app | Engagement: Long term + Focused 20+ | Found: Job posting via Remotive
 - Anything else: Cairo/Egypt note + CV link + Loom offer
 NOTE for future fills: Notion multi-selects need real coordinate clicks (browserbase batch clicks silently fail); date fields need full dates.
+
+## UPDATE 21:30 UTC — backup agent audit ("are applications moving?")
+Status: NOT stopped — 1 submitted today (garden3d), 6 ready packages queued. Remaining blockers are all owner-input:
+1. Gmail connector → unblocks Fueled + Sanctuary email applications (drafts ready in kit)
+2. LinkedIn profile URL → unblocks Lemon.io network signup
+3. ~2 min manual → Coalition x2 (reCAPTCHA + CV upload, values prefilled in kit)
+4. LinkedIn Easy Apply (BitOasis/Hikvision/Alstom/AMAN MENA) → runs on Hassan's own browser session (manager's automated part); datacenter IP blocked by LinkedIn checkpoint.
+New queue from evening run: 444 filtered — will mine more form-based applications next cycle. Himalayas = Cloudflare-blocked, RemoteOK apply links 404 (aggregators fragile — logged).
