@@ -1,0 +1,15 @@
+  list fail Egypt@0: HTTP Error 429: Too Many Requests
+LINKEDIN_GUEST Egypt: 0 listings
+LINKEDIN_GUEST United Arab Emirates: 20 listings
+  list fail Saudi Arabia@10: HTTP Error 429: Too Many Requests
+LINKEDIN_GUEST Saudi Arabia: 10 listings
+LINKEDIN_GUEST Qatar: 19 listings
+  list fail Kuwait@10: HTTP Error 429: Too Many Requests
+LINKEDIN_GUEST Kuwait: 9 listings
+  desc fail: HTTP Error 429: Too Many Requests
+LINKEDIN_GUEST Oman: 19 listings
+LINKEDIN_GUEST Bahrain: 20 listings
+LINKEDIN_GUEST Jordan: 16 listings
+  list fail Lebanon@0: HTTP Error 429: Too Many Requests
+LINKEDIN_GUEST Lebanon: 0 listings
+LINKEDIN_GUEST DONE: added 111, queue total 230
