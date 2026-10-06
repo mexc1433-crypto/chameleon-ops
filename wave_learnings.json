@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T22:55:00+02:00",
+ "updated": "2026-10-06T23:05:00+02:00",
  "learnings": [
   {
    "ts": "2026-10-06T16:30:00+02:00",
@@ -24,6 +24,10 @@
   {
    "ts": "2026-10-06T22:55:00+02:00",
    "rule": "Package generation batches: max 2 cv_gen runs per command to stay under tool timeouts; never batch 4+"
+  },
+  {
+   "ts": "2026-10-06T23:05:00+02:00",
+   "rule": "Both assistants write to one repo: always git pull --rebase BEFORE any push; keep bank.json and data/bank.json identical (single source of truth) after every merge"
   }
  ]
 }
