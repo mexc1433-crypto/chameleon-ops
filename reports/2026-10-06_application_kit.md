@@ -36,3 +36,13 @@ Body: cover letter from fueled-fullstack_cv.json + portfolio https://hasan-cv-wh
 - TestedRecruits direct POST (no captcha) rejected — server enforces reCAPTCHA. No bypass attempted.
 - browserbase_act cannot fill file inputs (unsupported-input-type:file).
 - All 5 CVs regenerated clean: no German, honest screening answers, employment dates intentionally blank (await real dates from Hassan).
+
+## UPDATE 20:30 UTC — garden3d Creative Network form (honest pivot)
+Sanctuary's Shopify role needs 8+ yrs Shopify mastery not in bank.json → per honesty policy applied to the NETWORK form instead with real skills:
+- Roles selected: Sr. Frontend Engineer + Sr. Fullstack Engineer (React/Next/TS real)
+- Location: Egypt | Timezone UTC+01→03 | Comfort: async/time/client = Very comfortable; managing others = Not at all
+- Strongest skills: React.js, Next.js, TypeScript, PostgreSQL/SQL, Prisma ORM, Python/Django, UI/UX, Figma/Sketch, Docker/K8s
+- Still learning: AI/LLMs, ML, Liquid (Shopify), Hydrogen, Shopify Theme Dev, Sanity/headless CMS
+- Portfolio + Egypt note in "Anything else" | Engagement: Long term + Focused | Heard: Job posting via Remotive
+BLOCKERS (required by form): (1) career start YEAR — must come from Hassan, (2) "Roles & Compensation works for me" checkbox — needs doc review + consent. Form URL: https://garden3d.notion.site/1f1131fea2c78095922ec7e09bd96101
+LinkedIn login attempt: blocked by reCAPTCHA checkpoint (datacenter IP). NO bypass attempted. Need profile URL from Hassan directly.
