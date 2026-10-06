@@ -23,7 +23,7 @@ jobs:
         run: |
           MODE="${{ github.event.inputs.mode || 'mena' }}"
           ROWS="${{ github.event.inputs.rows || '20' }}"
-          python3 apify_jobs.py "Marketing Manager" "$MODE" "$ROWS"
+          python3 apify_jobs.py "Marketing Manager" "$MODE" "$ROWS" || echo "apify quota exhausted — continuing with free APIs + guest search"
       - name: Free APIs merge (Remotive/Jobicy)
         run: python3 free_apis_jobs.py
       - name: Morning summary
