@@ -1,0 +1,40 @@
+{
+ "updated": "2026-10-06T16:30:00+02:00",
+ "errors": [
+  {
+   "ts": "2026-10-06T16:30:00+02:00",
+   "component": "discovery/apify",
+   "class": "quota",
+   "error": "Apify monthly hard limit reached - all runs rejected",
+   "fix": "apify_jobs.py disabled; discovery via public LinkedIn guest search + free APIs (Remotive/Jobicy)"
+  },
+  {
+   "ts": "2026-10-06T16:30:00+02:00",
+   "component": "github-actions/daily_pipeline",
+   "class": "pipeline-failure",
+   "error": "Daily Job Discovery failing since 2026-10-05 20:40 UTC (3 consecutive failures); job 'discover' fails; logs blob expired - root cause consistent with Apify quota",
+   "fix": "workflow depends on apify_jobs.py -> will keep failing until Apify resets or step is switched to guest search"
+  },
+  {
+   "ts": "2026-10-06T16:30:00+02:00",
+   "component": "cv_gen/llm",
+   "class": "llm-transient",
+   "error": "Gemini 503 + NIM read-timeout observed during generation",
+   "fix": "fallback chain works (groq/or complete generation) - no action needed, keep chain order"
+  },
+  {
+   "ts": "2026-10-06T16:30:00+02:00",
+   "component": "platform/signed-urls",
+   "class": "platform-limit",
+   "error": "signed URL max expiry 3600s (24h request rejected)",
+   "fix": "CV package links are 1h - bots must download promptly; regenerate on request"
+  },
+  {
+   "ts": "2026-10-06T16:30:00+02:00",
+   "component": "notify_bots/env",
+   "class": "env-mapping",
+   "error": "notify_bots.py expects TELEGRAM_BOT_TOKEN_3/_4; platform vault exposes TELEGRAM_BOT_TOKEN/_2",
+   "fix": "alias export at invocation: TELEGRAM_BOT_TOKEN_3=$TELEGRAM_BOT_TOKEN TELEGRAM_BOT_TOKEN_4=$TELEGRAM_BOT_TOKEN_2"
+  }
+ ]
+}
