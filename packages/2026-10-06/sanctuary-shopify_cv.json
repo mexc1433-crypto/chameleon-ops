@@ -1,0 +1,59 @@
+{
+  "headline": "Full Stack Developer & E-Commerce Specialist | Python, Node.js & Web Applications",
+  "summary": "Versatile Full Stack Developer with a proven track record of engineering and deploying 150+ successful web projects across 12+ countries. Specializes in building robust backends, automated systems, and scalable web applications using Python, Node.js, and PostgreSQL. Experienced in integrating payment gateways, optimizing website performance, and implementing server-side tracking for data-driven insights. Combines technical depth with a strong understanding of business operations and digital marketing funnels to deliver high-impact, client-focused solutions in remote and distributed environments.",
+  "skills": [
+    "Full Stack Development",
+    "Node.js & Express",
+    "Python & Django/Flask",
+    "PostgreSQL & Database Design",
+    "React & Vite",
+    "REST API Development",
+    "Web Scraping & Automation",
+    "Payment Gateway Integration",
+    "Linux System Administration",
+    "CI/CD & Deployment",
+    "E-Commerce Logic & Optimization",
+    "Technical Documentation",
+    "Remote Collaboration",
+    "Problem Solving & Critical Thinking"
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer & Creative Strategist",
+      "org": "Freelance / Personal Portfolio",
+      "period": "",
+      "bullets": [
+        "Engineered and deployed 150+ successful web projects across 12+ countries, achieving 100% client satisfaction through robust backend architecture and seamless frontend experiences.",
+        "Developed complex web applications using Python, Node.js, and PostgreSQL, delivering scalable solutions in rapid 5-12 day development cycles.",
+        "Implemented secure payment gateway integrations and optimized e-commerce workflows to enhance user conversion and transaction reliability.",
+        "Built automated Telegram and Discord bots using Python and Node.js, streamlining customer engagement and internal operations.",
+        "Executed server-side tracking and analytics integration to provide data-driven insights for marketing and product optimization.",
+        "Managed Linux server administration, including cron automation, security hardening, and zero-vulnerability deployment standards with full technical documentation."
+      ]
+    }
+  ],
+  "education": "Bachelor of Business Administration",
+  "languages": [
+    "Arabic (Native)",
+    "English (Professional)"
+  ],
+  "cover_letter": "I am writing to express my strong interest in the Senior Shopify Developer position at Sanctuary Computer Inc. With over 150 successful web projects delivered across 12 countries, I bring extensive expertise in full-stack development, specifically in building robust e-commerce backends and optimizing user experiences. My background in integrating payment gateways, managing Linux servers, and developing scalable Node.js and Python applications aligns perfectly with your technical requirements. I am eager to leverage my skills in web performance optimization and secure coding to drive growth for Sanctuary Computer Inc. I look forward to discussing how my technical precision and business acumen can contribute to your team's success.",
+  "screening": [
+    {
+      "q": "Do you have experience with Shopify development?",
+      "a": "SKIP_JOB"
+    },
+    {
+      "q": "Do you have experience with Node.js and Python?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have experience with e-commerce platforms or payment gateways?",
+      "a": "Yes"
+    },
+    {
+      "q": "Are you comfortable working remotely?",
+      "a": "Yes"
+    }
+  ]
+}

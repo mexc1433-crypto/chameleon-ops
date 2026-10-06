@@ -1,0 +1,64 @@
+{
+  "headline": "Senior Full Stack Engineer | TypeScript, React & Node.js",
+  "summary": "Senior Full Stack Engineer with a proven track record of engineering and deploying 150+ high-performance web applications across 12+ countries. Specializes in building robust, scalable systems using TypeScript, Node.js, and PostgreSQL, with a strong focus on end-to-end delivery from database design to pixel-perfect React frontends. Experienced in architecting REST APIs, implementing server-side tracking, and optimizing system performance for real-world conditions. Proven ability to bridge technical complexity with business goals, ensuring maintainable, future-ready solutions that drive measurable outcomes and client satisfaction.",
+  "skills": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "REST API Development",
+    "System Design",
+    "CI/CD Pipelines",
+    "Performance Optimization",
+    "Technical Documentation",
+    "Remote Collaboration"
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer & Creative Strategist",
+      "org": "Freelance / Independent",
+      "period": "",
+      "bullets": [
+        "Architected and deployed 150+ successful full-stack web applications for clients across 12+ countries, achieving 100% client satisfaction through robust backend and frontend solutions.",
+        "Engineered scalable REST APIs and complex data models using Node.js, Express, and PostgreSQL, ensuring type safety and performance under high-load conditions.",
+        "Developed performant, accessible user interfaces using React, Vite, and Tailwind CSS, focusing on clean architecture, state management, and pixel-perfect design implementation.",
+        "Implemented CI/CD pipelines and automated testing strategies (unit and functional) to maintain zero-vulnerability deployment standards and accelerate team velocity.",
+        "Optimized database queries and server-side logic to improve application performance, reducing load times and enhancing the overall user experience."
+      ]
+    }
+  ],
+  "education": "Bachelor of Business Administration",
+  "languages": [
+    "Arabic (Native)",
+    "English (Professional)"
+  ],
+  "cover_letter": "I am excited to apply for the Senior Full Stack Engineer role at Fueled. With a track record of delivering 150+ high-performance web applications, I bring deep expertise in TypeScript, React, and Node.js. I thrive on owning end-to-end solutions, from designing scalable data schemas in PostgreSQL to crafting pixel-perfect, accessible frontends. My background in remote collaboration and proactive problem-solving aligns perfectly with Fueled's culture of flexibility and technical excellence. I am eager to contribute to your team's mission of building premium digital experiences for world-class brands.",
+  "screening": [
+    {
+      "q": "Do you have experience with TypeScript?",
+      "a": "Professional"
+    },
+    {
+      "q": "Do you have experience with React and Next.js?",
+      "a": "Professional"
+    },
+    {
+      "q": "Do you have experience with Node.js and Express?",
+      "a": "Professional"
+    },
+    {
+      "q": "Do you have experience with database design (PostgreSQL/SQL)?",
+      "a": "Professional"
+    },
+    {
+      "q": "Are you comfortable working remotely?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have experience with CI/CD pipelines?",
+      "a": "Professional"
+    }
+  ]
+}
