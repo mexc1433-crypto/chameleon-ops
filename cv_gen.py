@@ -52,7 +52,7 @@ def http_json(url, body, headers):
         return json.loads(r.read())
 
 def gen_gemini(system, user):
-    key = os.environ["GEMINI_API_KEY"]
+    key = (os.environ.get("GEMINI_API_KEY") or os.environ["GOOGLE_API_KEY"])
     d = http_json(f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key={key}",
         {"contents": [{"parts": [{"text": system + "\n\n" + user}]}],
          "generationConfig": {"responseMimeType": "application/json", "temperature": 0.5}},
@@ -60,7 +60,7 @@ def gen_gemini(system, user):
     return d["candidates"][0]["content"]["parts"][0]["text"]
 
 def gen_nim(system, user):
-    key = os.environ["NVIDIA_NIM_API_KEY"]
+    key = (os.environ.get("NVIDIA_NIM_API_KEY") or os.environ["NVIDIA_API_KEY"])
     d = http_json("https://integrate.api.nvidia.com/v1/chat/completions",
         {"model": "deepseek-ai/deepseek-v4.1-flash",
          "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
@@ -78,7 +78,7 @@ def gen_groq(system, user):
     return d["choices"][0]["message"]["content"]
 
 def gen_or1(system, user):
-    key = os.environ["OPENROUTER_API_KEY_1"]
+    key = (os.environ.get("OPENROUTER_API_KEY_1") or os.environ["OPENROUTER_API_KEY"])
     d = http_json("https://openrouter.ai/api/v1/chat/completions",
         {"model": "qwen/qwen3.8-27b:free",
          "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
@@ -112,7 +112,9 @@ def groq(system, user):
 SYSTEM = """You are an expert CV writer for the Egyptian job market. Build a tailored, ATS-friendly English CV.
 Rules:
 - Core experience/education comes ONLY from the provided BANK and IDENTITY. Never invent degrees, employers, dates or languages.
-- JD-SHAPING: If the job description lists skills, tools or concepts MISSING from the bank, mirror them naturally and confidently into the skills list and experience bullets (professional phrasing, never mention gaps). The bank's skills_pool is your vocabulary; the JD is the target shape - mold the CV fully onto it.
+- HONESTY (approved policy): Include ONLY skills backed by the BANK blocks or IDENTITY. If the JD lists skills missing from the bank, do NOT add them - emphasize the closest real transferable skills instead. Never invent employers, dates, tools or experience.
+- Screening answers: for skills Hassan actually practices use the strongest honest level ("Professional"); answer "Yes" only for experiences that actually happened. If a question covers experience he does not have, answer honestly or mark "SKIP_JOB".
+- Languages: Arabic (Native) and English (Professional) ONLY. Never include German.
 - Mirror the job description's keywords naturally in summary and skills.
 - If the bank lacks relevant experience, use transferable-skills framing (fast learner, communication, organization, tools) - never fake employers.
 - Education: if provided, one neutral line placed low unless the job values it. If not provided, omit the section entirely.
@@ -203,7 +205,7 @@ COMPANY: {args.company}
 JOB DESCRIPTION: {jd}
 Build the tailored CV JSON now."""
     data = groq(SYSTEM, user)
-    data["languages"] = data.get("languages") or ["Arabic (Native)", "English", "German"]
+    data["languages"] = data.get("languages") or ["Arabic (Native)", "English (Professional)"]
     data = _san(data); ident = _san(ident)
 
     # auto-learn: JD-shaped skills not yet in bank -> grow skills_pool

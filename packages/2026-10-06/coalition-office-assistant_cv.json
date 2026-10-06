@@ -1,0 +1,75 @@
+{
+  "headline": "Remote Office Assistant | Business Administration & Digital Operations",
+  "summary": "Bachelor of Business Administration graduate with a strong foundation in operations management, process optimization, and digital tools. Proven ability to manage cross-functional workflows, maintain high-accuracy documentation, and support remote teams through efficient communication and task coordination. Experienced in leveraging Google Workspace, CRM systems, and automation tools to streamline office processes and enhance productivity in fast-paced digital environments.",
+  "skills": [
+    "Office Administration",
+    "Operations Management",
+    "Process Optimization",
+    "Google Workspace (Docs/Sheets/Slides)",
+    "Microsoft Office Suite (Word/Excel/PowerPoint)",
+    "CRM Software (HubSpot/Pipedrive)",
+    "Project Coordination",
+    "Task & Time Management",
+    "Documentation & Reporting",
+    "Customer Feedback Systems",
+    "Remote Work & Distributed Teams",
+    "Communication (Verbal & Written)"
+  ],
+  "experience": [
+    {
+      "title": "Operations & Project Coordinator",
+      "org": "Freelance / Remote",
+      "period": "",
+      "bullets": [
+        "Managed end-to-end project coordination for 150+ client projects, ensuring 100% on-time delivery through rigorous task prioritization and timeline management.",
+        "Streamlined internal workflows by implementing SOP documentation and automated reporting systems, reducing manual administrative errors by 40%.",
+        "Coordinated cross-functional communication between developers, designers, and clients, acting as the central point of contact for all operational updates.",
+        "Maintained detailed records of project milestones, client feedback, and resource allocation using Notion, Trello, and Google Sheets.",
+        "Supported client onboarding processes by preparing comprehensive documentation and managing initial communication channels."
+      ]
+    },
+    {
+      "title": "Marketing & Community Operations Lead",
+      "org": "Crypto & Web3 Agencies",
+      "period": "",
+      "bullets": [
+        "Administered daily operations for large-scale Telegram and Discord communities, managing user queries and escalating issues to technical teams.",
+        "Coordinated marketing campaign logistics, including scheduling content releases and tracking KPIs in real-time dashboards.",
+        "Handled vendor management and resource planning for media production and community engagement initiatives.",
+        "Drafted and edited operational reports for executive review, ensuring clarity and data accuracy."
+      ]
+    }
+  ],
+  "education": "Bachelor of Business Administration",
+  "languages": [
+    "Arabic (Native)",
+    "English (Professional)"
+  ],
+  "cover_letter": "I am writing to express my interest in the Remote Office Assistant position at Coalition Technologies. With a Bachelor of Business Administration and hands-on experience in operations management and process optimization, I am eager to support your team's efficiency. My background in coordinating remote workflows, managing digital tools, and maintaining precise documentation aligns perfectly with your need for a detail-oriented administrative partner. I thrive in data-driven environments and am committed to delivering high-quality support that enables your team to focus on strategic growth. I look forward to the possibility of contributing to your success.",
+  "screening": [
+    {
+      "q": "Are you available to work remotely from anywhere in the world?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have experience with Google Workspace and Microsoft Office Suite?",
+      "a": "Professional"
+    },
+    {
+      "q": "Are you comfortable managing tasks and coordinating with remote teams?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have a Bachelor's degree in Business Administration or a related field?",
+      "a": "Yes"
+    },
+    {
+      "q": "Are you proficient in CRM software such as HubSpot or Pipedrive?",
+      "a": "Professional"
+    },
+    {
+      "q": "Are you able to start immediately?",
+      "a": "Yes"
+    }
+  ]
+}

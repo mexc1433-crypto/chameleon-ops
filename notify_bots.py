@@ -31,8 +31,8 @@ def send(token, text, chat=HASSAN_CHAT):
 def notify(target, text):
     env = {**os.environ, **_load_env()}
     tokens = {
-        "apps":   env.get("TELEGRAM_BOT_TOKEN_3"),   # @Ydvdhsbot سجل التقديمات
-        "replies": env.get("TELEGRAM_BOT_TOKEN_4"), # @Sjgddygsgcsbot بوت الردود
+        "apps":   env.get("TELEGRAM_BOT_TOKEN_3") or env.get("TELEGRAM_BOT_TOKEN_1"),   # @Ydvdhsbot سجل التقديمات
+        "replies": env.get("TELEGRAM_BOT_TOKEN_4") or env.get("TELEGRAM_BOT_TOKEN_2"), # @Sjgddygsgcsbot بوت الردود
     }
     if target == "both":
         targets = ["apps", "replies"]

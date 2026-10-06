@@ -1,0 +1,25 @@
+=== WAVE START Tue Oct  6 16:19:38 UTC 2026 ===
+RUN_FAIL Egypt HTTP Error 403: Forbidden
+RUN_FAIL United Arab Emirates HTTP Error 403: Forbidden
+RUN_FAIL Saudi Arabia HTTP Error 403: Forbidden
+RUN_FAIL Qatar HTTP Error 403: Forbidden
+RUN_FAIL Kuwait HTTP Error 403: Forbidden
+RUN_FAIL Oman HTTP Error 403: Forbidden
+RUN_FAIL Bahrain HTTP Error 403: Forbidden
+RUN_FAIL Jordan HTTP Error 403: Forbidden
+RUN_FAIL Lebanon HTTP Error 403: Forbidden
+NO_RUNS
+RUN_FAIL Egypt HTTP Error 403: Forbidden
+RUN_FAIL United Arab Emirates HTTP Error 403: Forbidden
+RUN_FAIL Saudi Arabia HTTP Error 403: Forbidden
+RUN_FAIL Qatar HTTP Error 403: Forbidden
+RUN_FAIL Kuwait HTTP Error 403: Forbidden
+RUN_FAIL Oman HTTP Error 403: Forbidden
+RUN_FAIL Bahrain HTTP Error 403: Forbidden
+RUN_FAIL Jordan HTTP Error 403: Forbidden
+RUN_FAIL Lebanon HTTP Error 403: Forbidden
+NO_RUNS
+RUN_FAIL Remote HTTP Error 403: Forbidden
+RUN_FAIL Worldwide HTTP Error 403: Forbidden
+NO_RUNS
+=== WAVE DONE Tue Oct  6 16:19:40 UTC 2026 ===
