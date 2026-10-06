@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T23:00:00+02:00",
+ "updated": "2026-10-07T00:00:00+02:00",
  "errors": [
   {
    "ts": "2026-10-06T16:30:00+02:00",
@@ -65,6 +65,14 @@
    "class": "runner-start-failure",
    "error": "Latest Daily Job Discovery run 37517550961 failed at 2026-10-06T19:15:10Z UTC; job discover ended in 4 seconds with runner_id=0, no steps/log blob available. Root cause not verifiable from GitHub API; prior known Apify quota issue exists but this run provides no evidence to attribute it.",
    "fix": "Immediate alert raised; inspect Actions run/check details and validate runner/workflow availability on next hourly check. Do not infer an Apify failure without a step log."
+  },
+  {
+   "ts": "2026-10-07T00:00:00+02:00",
+   "component": "github_actions",
+   "class": "account-level-actions-block",
+   "error": "ALL workflow runs fail in <10s with 0 steps, no runner_name, no logs (incl. trivial test_ping.yml with one echo step). Actions enabled=true, allowed=all, billing $0 outstanding, repo public+active",
+   "root_cause": "GitHub is not provisioning hosted runners for this account: every job completes as failure in ~1s before any runner attaches. Not a YAML/pipeline issue",
+   "fix": "Needs owner action in GitHub UI: open repo Actions tab for the exact banner (flagged account / runner restriction), or contact GitHub Support. Interim bridge: run discovery steps locally (linkedin_guest.py + free_apis_jobs.py + notify_bots.py)"
   }
  ]
 }
