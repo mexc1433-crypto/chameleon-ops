@@ -28,3 +28,9 @@
 - Hikvision BD: https://base44.app/api/apps/6ac4f9c168e751bc15648fb5/files/mp/public/6ac4f9c168e751bc15648fb5/cb450e45e_hikvision_cv.pdf
 - Alstom Tech Sales: https://base44.app/api/apps/6ac4f9c168e751bc15648fb5/files/mp/public/6ac4f9c168e751bc15648fb5/dd9324d69_alstom_cv.pdf
 - AMAN Growth: https://base44.app/api/apps/6ac4f9c168e751bc15648fb5/files/mp/public/6ac4f9c168e751bc15648fb5/889e27163_aman-growth_cv.pdf
+
+## حزم إضافية (موجة مسائية ثانية)
+- Marketing Manager @ SYSTICS (القاهرة): https://eg.linkedin.com/jobs/view/marketing-manager-at-systics-4464527
+  CV: https://base44.app/api/apps/6ac4f9c168e751bc15648fb5/files/mp/public/6ac4f9c168e751bc15648fb5/789e33c2f_systics_cv.pdf
+- Marketing Manager (Automotive) @ Anantara (الدوحة): https://qa.linkedin.com/jobs/view/marketing-manager-automotive-at-confidential-company-4464617233
+  CV: https://base44.app/api/apps/6ac4f9c168e751bc15648fb5/files/mp/public/6ac4f9c168e751bc15648fb5/e689e0465_anantara_cv.pdf

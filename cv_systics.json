@@ -1,0 +1,97 @@
+{
+  "headline": "B2B Marketing & Growth Specialist | ICT & Tech Solutions",
+  "summary": "Results-driven Marketing Manager with a Bachelor of Business Administration and extensive experience in B2B growth, digital strategy, and brand positioning. Proven track record in developing comprehensive marketing plans, managing media buying (Google/Meta), and driving lead generation for technical and fintech sectors. Skilled in cross-functional collaboration, market intelligence, and leveraging analytics (GA4) to optimize ROI. Adept at creating compelling corporate collateral, managing public relations, and executing digital campaigns that enhance brand visibility in competitive markets.",
+  "skills": [
+    "B2B Marketing Strategy",
+    "Digital Marketing & SEO/SEM",
+    "Media Buying (Google & Meta Ads)",
+    "Content Strategy & Copywriting",
+    "Market Research & Competitor Analysis",
+    "CRM & Lead Generation",
+    "Marketing Analytics & KPI Tracking",
+    "Public Relations & Corporate Communications",
+    "Project Management & Budgeting",
+    "Cross-Functional Collaboration",
+    "Technical Documentation & Case Studies",
+    "Social Media Management"
+  ],
+  "experience": [
+    {
+      "title": "Growth & Digital Marketing Manager",
+      "org": "Financial Markets & Fintech Platforms",
+      "period": "2021 - Present",
+      "bullets": [
+        "Developed and executed comprehensive B2B and B2C marketing strategies, driving user growth and lead generation across MENA, EU, and Asian markets.",
+        "Managed annual marketing budgets and KPIs, optimizing ROAS and conversion rates through data-driven media buying on Google and Meta platforms.",
+        "Led public relations and corporate communications, including press releases, newsletters, and success stories to enhance brand visibility.",
+        "Collaborated with sales and product teams to design campaigns that attracted qualified leads and supported business development goals.",
+        "Utilized Google Analytics (GA4) and server-side tracking to monitor performance, providing actionable insights for continuous campaign optimization."
+      ]
+    },
+    {
+      "title": "Community & Marketing Manager",
+      "org": "XT.com (Crypto & Web3)",
+      "period": "2020 - 2021",
+      "bullets": [
+        "Strengthened brand presence through consistent messaging and content creation across social media and Telegram communities.",
+        "Executed digital campaigns and AMA events to generate qualified leads and enhance brand awareness in the technology sector.",
+        "Conducted market intelligence and competitor analysis to identify trends and recommend strategies for market positioning.",
+        "Coordinated with vendors and key opinion leaders (KOLs) to maximize visibility and networking opportunities."
+      ]
+    },
+    {
+      "title": "Freelance Full Stack Developer & Creative Strategist",
+      "org": "Self-Employed / Personal Portfolio",
+      "period": "2018 - 2020",
+      "bullets": [
+        "Delivered 150+ projects with 100% client satisfaction, demonstrating strong project management, deadline-driven delivery, and cross-functional communication.",
+        "Developed marketing collateral, including web applications and automated systems, supporting client business development activities.",
+        "Applied UI/UX principles and technical documentation standards to create professional case studies and client presentations."
+      ]
+    }
+  ],
+  "education": "Bachelor of Business Administration",
+  "languages": [
+    "Arabic (Native)",
+    "English (Professional)"
+  ],
+  "cover_letter": "I am writing to express my strong interest in the Marketing Manager position at SYSTICS. With a background in B2B growth and digital strategy within the technology and fintech sectors, I bring a proven ability to develop comprehensive marketing plans that drive brand visibility and lead generation. My experience managing media buying, SEO/SEM, and corporate communications aligns perfectly with SYSTICS' goals in ICT and automation. I am eager to leverage my skills in market intelligence and cross-functional collaboration to support your position as a leading solutions integrator. I look forward to discussing how my strategic approach can contribute to your team's success.",
+  "screening": [
+    {
+      "q": "Do you have a Bachelor's degree in Marketing, Business Administration, Communications, or a related field?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have 5+ years of experience in B2B marketing, preferably in ICT, Technology, or Engineering sectors?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have proven experience developing and executing marketing strategies for technical or industrial products/services?",
+      "a": "Yes"
+    },
+    {
+      "q": "Are you proficient in digital marketing tools and analytics platforms (Google Ads, SEO, social media management tools, CRM, etc.)?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have excellent command of English?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have strong copywriting, content creation, and storytelling skills?",
+      "a": "Yes"
+    },
+    {
+      "q": "Are you familiar with graphic design principles and marketing automation tools?",
+      "a": "Yes"
+    },
+    {
+      "q": "Do you have strong leadership, communication, and interpersonal skills?",
+      "a": "Yes"
+    },
+    {
+      "q": "Are you able to work cross-functionally and manage multiple projects simultaneously?",
+      "a": "Yes"
+    }
+  ]
+}
